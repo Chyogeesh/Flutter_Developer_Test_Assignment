@@ -1,0 +1,10 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: latest_version
+  firebase_auth: latest_version
+  firebase_storage: latest_version
+  cloud_firestore: latest_version
+  geolocator: latest_version
+  camera: latest_version
+  video_player: latest_version
